@@ -81,27 +81,27 @@ Sorry for my english. I also went back to studying, with a lot of focus on progr
 
 </br>
 
-1. ### Good communication.
-2. ### Team work.
-3. ### Ecological awareness.
-4. ### Self-management.
-5. ### Problem solving
+1. Good communication.
+2. Team work.
+3. Ecological awareness.
+4. Self-management.
+5. Problem solving
 
 </br>
 
 ## My Hard Skills:
 
-1. ### HTML5
-2. ### CSS3
-3. ### Transitions and Animations
-4. ### Bootstrap
-5. ### Flexbox
-6. ### CSS Doodle
-7. ### JavaScript Basic
-8. ### JavaScript DOM
-9. ### JavaScript for frontend - in progress ⏳
-10. ### JavaScript for backend - planned
-11. ### JavaScript and OO - planned
+1. HTML5
+2. CSS3
+3. Transitions and Animations
+4. Bootstrap
+5. Flexbox
+6. CSS Doodle
+7. JavaScript Basic
+8. JavaScript DOM
+9. JavaScript for frontend - in progress ⏳
+10. JavaScript for backend - planned
+11. JavaScript and OO - planned
 
 </br>
 
