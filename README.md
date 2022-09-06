@@ -17,14 +17,12 @@ I have a degree in graduated in Biological Sciences from Universidade Federal do
 You can see my study projects here: [repository GitHub](https://github.com/lucas-quirino).
 
 </br>
-</br>
 
 <picture>
   <img alt="Let's work" src="https://media2.giphy.com/media/r2FFJQ3oFb5QPoOz1X/giphy.gif?cid=ecf05e47q7vcc2amz5m68p2somstnhms7j8mi8opvty3kdn8&rid=giphy.gif&ct=s" width="80px">
   <img alt="Let's work" src="https://media4.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=ecf05e477kndcybiri81vz603x5u1tp6ei7f3gr9201pswgv&rid=giphy.gif&ct=s" width="120px">
 </picture>
 
-</br>
 </br>
 
 I hope to find space in a team where I can share knowledge and learn new skills, contributing to our growth.
@@ -110,7 +108,7 @@ Sorry for my english. I also went back to studying, with a lot of focus on progr
 10. ### JavaScript for backend - planned
 11. ### JavaScript and OO - planned
 
-</br></br>
+</br>
 
 <picture>
   <img alt="Let's work" src="https://media4.giphy.com/media/U3yc84Oe6thNrByte4/giphy.gif?cid=790b76112c6c91768fa9cfabfdaf7d2c2298243bceeff14c&rid=giphy.gif&ct=s" width="300px">
