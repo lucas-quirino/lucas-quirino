@@ -20,6 +20,8 @@ You can see my study projects here: [repository GitHub](https://github.com/lucas
 
 <picture>
   <img alt="Let's work" src="https://media2.giphy.com/media/r2FFJQ3oFb5QPoOz1X/giphy.gif?cid=ecf05e47q7vcc2amz5m68p2somstnhms7j8mi8opvty3kdn8&rid=giphy.gif&ct=s" width="80px">
+</picture>
+<picture>
   <img alt="Let's work" src="https://media4.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=ecf05e477kndcybiri81vz603x5u1tp6ei7f3gr9201pswgv&rid=giphy.gif&ct=s" width="120px">
 </picture>
 
