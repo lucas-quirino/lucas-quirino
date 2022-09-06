@@ -23,7 +23,7 @@ You can see my study projects here: [repository GitHub](https://github.com/lucas
   <img alt="Let's work" src="https://media4.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=ecf05e477kndcybiri81vz603x5u1tp6ei7f3gr9201pswgv&rid=giphy.gif&ct=s" width="120px">
 </picture>
 
-</br>
+<br>
 
 I hope to find space in a team where I can share knowledge and learn new skills, contributing to our growth.
 
