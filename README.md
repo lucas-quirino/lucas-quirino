@@ -6,7 +6,7 @@
 
 </br>
 
-### I have a degree in graduated in Biological Sciences from Universidade Federal do Estado do Rio de Janeiro and I'm currently studying programming for a career transition. Today, I'm already mastering HTML and CSS very well, and starting the journey in JavaScript Full stack.
+I have a degree in graduated in Biological Sciences from Universidade Federal do Estado do Rio de Janeiro and I'm currently studying programming for a career transition. Today, I'm already mastering HTML and CSS very well, and starting the journey in JavaScript Full stack.
 
 </br>
 </br>
@@ -16,7 +16,7 @@
 </br>
 </br>
 
-### You can see my study projects here: [repository GitHub](https://github.com/lucas-quirino).
+You can see my study projects here: [repository GitHub](https://github.com/lucas-quirino).
 
 </br>
 </br>
@@ -29,11 +29,11 @@
 </br>
 </br>
 
-### I hope to find space in a team where I can share knowledge and learn new skills, contributing to our growth.
+I hope to find space in a team where I can share knowledge and learn new skills, contributing to our growth.
 
-### I really enjoyed cycling, hiking, playing the piano  and contributing to environmental causes. If your company is committed to environmental issues and aims at sustainable ways for the future, I can be a great teammate.
+I really enjoyed cycling, hiking, playing the piano  and contributing to environmental causes. If your company is committed to environmental issues and aims at sustainable ways for the future, I can be a great teammate.
 
-### Sorry for my english. I also went back to studying, with a lot of focus on programming work and team interaction, and I'm practicing whenever possible.
+Sorry for my english. I also went back to studying, with a lot of focus on programming work and team interaction, and I'm practicing whenever possible.
 
 </br>
 
