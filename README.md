@@ -31,14 +31,9 @@ I really enjoyed cycling, hiking, playing the piano  and contributing to environ
 
 Sorry for my english. I also went back to studying, with a lot of focus on programming work and team interaction, and I'm practicing whenever possible.
 
-</br>
-
 ---
 
 ### Here you can see some of the courses I have taken:
-
-</br>
-
 
 ## Alura Plataform:
 
