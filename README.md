@@ -1,10 +1,6 @@
 # Hello guys, how are you? 😉
 
-</br>
-
 ## I'm Lucas.
-
-</br>
 
 I have a degree in graduated in Biological Sciences from Universidade Federal do Estado do Rio de Janeiro and I'm currently studying programming for a career transition. Today, I'm already mastering HTML and CSS very well, and starting the journey in JavaScript Full stack.
 
@@ -87,8 +83,6 @@ Sorry for my english. I also went back to studying, with a lot of focus on progr
 4. Self-management.
 5. Problem solving
 
-</br>
-
 ## My Hard Skills:
 
 1. HTML5
@@ -102,8 +96,6 @@ Sorry for my english. I also went back to studying, with a lot of focus on progr
 9. JavaScript for frontend - in progress ⏳
 10. JavaScript for backend - planned
 11. JavaScript and OO - planned
-
-</br>
 
 <picture>
   <img alt="Let's work" src="https://media4.giphy.com/media/U3yc84Oe6thNrByte4/giphy.gif?cid=790b76112c6c91768fa9cfabfdaf7d2c2298243bceeff14c&rid=giphy.gif&ct=s" width="300px">
