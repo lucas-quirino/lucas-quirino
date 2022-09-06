@@ -10,19 +10,19 @@ You can see my study projects here: [repository GitHub](https://github.com/lucas
 
 🌲 🐸 💻 🔋 🚲 🎹 ♻
 
-<picture><img alt="Let's work" src="https://media2.giphy.com/media/r2FFJQ3oFb5QPoOz1X/giphy.gif?cid=ecf05e47q7vcc2amz5m68p2somstnhms7j8mi8opvty3kdn8&rid=giphy.gif&ct=s" width="80px"></picture>
-<picture><img alt="Let's work" src="https://media4.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=ecf05e477kndcybiri81vz603x5u1tp6ei7f3gr9201pswgv&rid=giphy.gif&ct=s" width="120px"></picture>
-<picture><img alt="Let's work" src="https://media0.giphy.com/media/RXJXrVNAOOCsTzBOU5/giphy.gif?cid=790b761131ac8bacbf730c0f91100bd4243bb379131c9b79&rid=giphy.gif&ct=s" width="100px"></picture>
-<picture><img alt="Let's work" src="https://media3.giphy.com/media/ZCewaVmN4ArYd4Ml0b/giphy.gif?cid=790b7611286212377edea1f89f07eed0af3d674dd7353401&rid=giphy.gif&ct=s" width="80px"></picture>
-<picture><img alt="Let's work" src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=790b7611de451f89d93884641132b97af060b2767dca1417&rid=giphy.gif&ct=s" width="100px"></picture>
-
-<br>
-
 I hope to find space in a team where I can share knowledge and learn new skills, contributing to our growth.
 
 I really enjoyed cycling, hiking, playing the piano  and contributing to environmental causes. If your company is committed to environmental issues and aims at sustainable ways for the future, I can be a great teammate.
 
 Sorry for my english. I also went back to studying, with a lot of focus on programming work and team interaction, and I'm practicing whenever possible.
+
+<br>
+
+<picture><img alt="Let's work" src="https://media2.giphy.com/media/r2FFJQ3oFb5QPoOz1X/giphy.gif?cid=ecf05e47q7vcc2amz5m68p2somstnhms7j8mi8opvty3kdn8&rid=giphy.gif&ct=s" width="80px"></picture>
+<picture><img alt="Let's work" src="https://media4.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=ecf05e477kndcybiri81vz603x5u1tp6ei7f3gr9201pswgv&rid=giphy.gif&ct=s" width="120px"></picture>
+<picture><img alt="Let's work" src="https://media0.giphy.com/media/RXJXrVNAOOCsTzBOU5/giphy.gif?cid=790b761131ac8bacbf730c0f91100bd4243bb379131c9b79&rid=giphy.gif&ct=s" width="100px"></picture>
+<picture><img alt="Let's work" src="https://media3.giphy.com/media/ZCewaVmN4ArYd4Ml0b/giphy.gif?cid=790b7611286212377edea1f89f07eed0af3d674dd7353401&rid=giphy.gif&ct=s" width="80px"></picture>
+<picture><img alt="Let's work" src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=790b7611de451f89d93884641132b97af060b2767dca1417&rid=giphy.gif&ct=s" width="100px"></picture>
 
 ---
 
