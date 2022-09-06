@@ -68,8 +68,6 @@ Sorry for my english. I also went back to studying, with a lot of focus on progr
 
 ## My Soft Skills:
 
-</br>
-
 1. Good communication.
 2. Team work.
 3. Ecological awareness.
@@ -89,6 +87,8 @@ Sorry for my english. I also went back to studying, with a lot of focus on progr
 9. JavaScript for frontend - in progress ⏳
 10. JavaScript for backend - planned
 11. JavaScript and OO - planned
+
+---
 
 <picture>
   <img alt="Let's work" src="https://media4.giphy.com/media/U3yc84Oe6thNrByte4/giphy.gif?cid=790b76112c6c91768fa9cfabfdaf7d2c2298243bceeff14c&rid=giphy.gif&ct=s" width="300px">
