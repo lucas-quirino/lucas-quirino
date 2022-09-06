@@ -12,7 +12,7 @@ You can see my study projects here: [repository GitHub](https://github.com/lucas
 
 I hope to find space in a team where I can share knowledge and learn new skills, contributing to our growth.
 
-I really enjoyed cycling, hiking, playing the piano  and contributing to environmental causes. If your company is committed to environmental issues and aims at sustainable ways for the future, I can be a great teammate.
+I really enjoyed cycling, hiking, playing the piano  and contributing to environmental causes. I like to read about technologies, space exploration, politics and finance. If your company is committed to environmental issues and aims at sustainable ways for the future, I can be a great teammate.
 
 Sorry for my english. I also went back to studying, with a lot of focus on programming work and team interaction, and I'm practicing whenever possible.
 
