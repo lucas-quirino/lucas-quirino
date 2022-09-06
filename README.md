@@ -16,8 +16,6 @@ I really enjoyed cycling, hiking, playing the piano  and contributing to environ
 
 Sorry for my english. I also went back to studying, with a lot of focus on programming work and team interaction, and I'm practicing whenever possible.
 
-<br>
-
 <picture><img alt="Let's work" src="https://media2.giphy.com/media/r2FFJQ3oFb5QPoOz1X/giphy.gif?cid=ecf05e47q7vcc2amz5m68p2somstnhms7j8mi8opvty3kdn8&rid=giphy.gif&ct=s" width="80px"></picture>
 <picture><img alt="Let's work" src="https://media4.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=ecf05e477kndcybiri81vz603x5u1tp6ei7f3gr9201pswgv&rid=giphy.gif&ct=s" width="120px"></picture>
 <picture><img alt="Let's work" src="https://media0.giphy.com/media/RXJXrVNAOOCsTzBOU5/giphy.gif?cid=790b761131ac8bacbf730c0f91100bd4243bb379131c9b79&rid=giphy.gif&ct=s" width="100px"></picture>
