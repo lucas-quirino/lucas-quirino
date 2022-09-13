@@ -6,7 +6,7 @@
 
 I have a degree in graduated in Biological Sciences from Universidade Federal do Estado do Rio de Janeiro and I'm currently studying programming for a career transition. Today, I'm already mastering HTML and CSS very well, and starting the journey in JavaScript Full stack.
 
-You can see my study projects here: [repository GitHub](https://github.com/lucas-quirino).
+You can see my study projects here: [repository GitHub](https://github.com/lucas-quirino?tab=repositories).
 
 🌲 🐸 💻 🔋 🚲 🎹 ♻
 
